@@ -1,3 +1,18 @@
+# Recruitment-Test---July-2022
+
+---
+
+- Un visiteur du site peut remplir le formulaire de contact pour laisser un message.
+- Les champs du formulaires passent par une validation.
+- Il est possible de créer un utilisateur admin via la page d'inscription. Il pourra consulter la liste des messages reçus via le formulaire du site.
+
+Des spécificités sur certains champs sont à prendre en compte :
+- Champs « Email » : l’email doit être validé dès la saisie dans le formulaire
+- Champs « Téléphone » : le téléphone doit uniquement contenir 10 chiffres pour
+correspondre aux normes françaises.
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,4 +77,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Recruitment-Test---July-2022
